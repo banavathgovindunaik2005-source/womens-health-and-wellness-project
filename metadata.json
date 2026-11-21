@@ -1,0 +1,6 @@
+{
+  "name": "Maren Vance — Abstract Art Portfolio & Collector Storefront",
+  "description": "Contemporary abstract art portfolio, high-resolution inspection gallery, and insured collector e-commerce checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

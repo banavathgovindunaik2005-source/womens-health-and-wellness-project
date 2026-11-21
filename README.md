@@ -1,11 +1,22 @@
-<div align="center">
+# Beyond Periods: Understanding Women’s Health and Wellness
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+An interactive educational awareness web application covering menstrual hygiene, hormonal health (PCOS/PCOD & thyroid disorders), women's mental wellbeing across life stages, and preventive healthcare.
 
-  <h1>Built with AI Studio</h2>
+## Features
+- **Menstrual Hygiene & Product Safety**: Interactive comparison of conventional fragranced/plastic-based products vs. safer alternatives (fragrance-free cotton pads, medical-grade silicone menstrual cups, and reusable period underwear) with a personalized alternative selector.
+- **Hormonal Health & Endocrine Cycle Explorer**: Interactive 28-day SVG coordinate visualizer tracking Estrogen, Progesterone, and LH trends alongside a PCOS/PCOD & thyroid lifestyle influence breakdown.
+- **Mental Health Across Life Stages**: Guided explorer addressing cyclical mood changes, chronic stress, postpartum depression, and menopausal emotional transitions.
+- **Preventive Healthcare & Self-Check**: Life-stage filterable guidance on HPV vaccination, cervical cancer screening, iron-deficiency anemia, and bone health, plus a persistent preventive checklist and 5-question awareness self-check.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## Running Locally
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+```bash
+npm install
+npm run dev
+```
 
-</div>
+To create a production build:
+
+```bash
+npm run build
+```
